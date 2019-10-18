@@ -6,7 +6,7 @@ import { CountryOrderData } from '../data/country-order';
 export class CountryOrderService extends CountryOrderData {
 
   private countriesCategories = [
-    'Sofas',
+    'Диваны',
     'Furniture',
     'Lighting',
     'Tables',
